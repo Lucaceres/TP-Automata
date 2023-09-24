@@ -4,7 +4,7 @@
 ### Integrantes:
 #### Lucas Daniel Caceres
 - Legajo 1728830
-- Usuario Github: lucáceres
+- Usuario Github: Lucaceres
 #### Walter Manuel Gomez Barrios
 - Legajo 1686010
 - Usuario Github: WalterGomez1999
