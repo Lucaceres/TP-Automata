@@ -1,4 +1,4 @@
-# TP-Automata
+# TP-Automatas
 
 ### TP02 - EQUIPO N: 8
 ### Integrantes:
